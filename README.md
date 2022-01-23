@@ -46,7 +46,7 @@ and calculate a "score". Points are awarded as follows:
 ## Bot Leaderboard
 
 To add your bot here, run it using `test_data.txt` as the list of games, score it using `score_play.py`, and
-(propose a pull request against this file)[https://github.com/matthewg/wordle-robotics/edit/main/README.md]
+[propose a pull request against this file](https://github.com/matthewg/wordle-robotics/edit/main/README.md)
 containing your score and a link to your bot. Please include the output of your bot against `test_data.txt`
 as the extended description for the pull request.
 
