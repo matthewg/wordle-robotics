@@ -1,5 +1,7 @@
 # wordle-robotics
-A platform for building and evaluating bots that play Josh Wardle's "Wordle" game.
+A platform for building and evaluating bots that play [Josh Wardle's "Wordle" game](https://www.powerlanguage.co.uk/wordle/).
+
+This is an unofficial project, not affiliated or endored by Wordle.
 
 ## Overview
 
